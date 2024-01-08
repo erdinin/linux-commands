@@ -1,2 +1,0 @@
-htop
-df -h

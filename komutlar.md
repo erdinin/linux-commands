@@ -1,0 +1,2 @@
+htop
+df -h
